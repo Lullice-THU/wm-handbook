@@ -6,8 +6,12 @@
 
 - **阶段**: Phase 1 评估完成，Phase 2 规划中
 - **目录**: `~/.openclaw/workspace/opc/wm-research/`
-- **GitHub**: 未上传（yellow/wm-research 404，等 Yellow 提供 Token）
-- **Token 需求**: GitHub Personal Access Token（repo 权限）
+
+## GitHub 仓库
+- **URL**: https://github.com/Lullice-THU/wm-handbook
+- **分支**: main
+- **维护方式**: 本地 git push 即可更新远程仓库（Token 已保存在 git remote）
+- **文件数**: 38 个文件，4946 行内容（截至 2026-04-01）
 
 ---
 

@@ -1,0 +1,24 @@
+# OpenClaw
+.openclaw/
+
+# macOS
+.DS_Store
+._*
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*.~*
+
+# Misc
+*.log
